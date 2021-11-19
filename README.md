@@ -1,5 +1,5 @@
 # Lagos-Real-Estate-Data-Analysis-Web-Scraping
-spooling out available houses for sale for analysis
+spooling out available houses for sale for analysis using python
 
 ## Data Description 
 
